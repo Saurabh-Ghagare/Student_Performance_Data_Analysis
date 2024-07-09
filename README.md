@@ -26,18 +26,17 @@ Our analysis revealed several key findings:
    - There's a weak negative correlation between higher parental education and GPA.
    - ![Parental Education and GPA](https://raw.githubusercontent.com/Saurabh-Ghagare/Student_Performance_Data_Analysis/9dbadcbcc744f53555183dc12081c014345130ab/Average%20GPA%20by%20Parental%20Education%20level.png)
 
-4. **Study Time and GPA:** 
-   - There's a weak positive correlation (0.179) between study time and GPA, suggesting a slight increase in GPA with more study time.
-   - ![Study Time and GPA](https://github.com/Saurabh-Ghagare/Student_Performance_Data_Analysis/blob/9dbadcbcc744f53555183dc12081c014345130ab/Distibution%20of%20study%20time%20amongs%20students.png)
-
-5. **Absences and GPA:** 
+4. **Absences and GPA:** 
    - A strong negative correlation (-0.919) exists between absences and GPA, indicating a significant decrease in GPA with more absences.
-   - ![Absences and GPA](https://raw.githubusercontent.com/Saurabh-Ghagare/Student_Performance_Data_Analysis/9dbadcbcc744f53555183dc12081c014345130ab/Average%20GPA%20by%20Parental%20Education%20level.png)
+   - ![Absences and GPA](https://raw.githubusercontent.com/Saurabh-Ghagare/Student_Performance_Data_Analysis/9dbadcbcc744f53555183dc12081c014345130ab/Relationship%20Between%20number%20of%20absences%20relate%20to%20GPA%20.png)
 
-6. **Study Time Distribution:** 
+5. **Study Time Distribution:** 
    - Student study time tends to cluster around 3-5 hours weekly, with a larger portion dedicating less time and a smaller portion studying significantly longer.
    - ![Study Time Distribution](https://raw.githubusercontent.com/Saurabh-Ghagare/Student_Performance_Data_Analysis/9dbadcbcc744f53555183dc12081c014345130ab/Distibution%20of%20study%20time%20amongs%20students.png)
 
+6. **Study Time and GPA:** 
+   - There's a weak positive correlation (0.179) between study time and GPA, suggesting a slight increase in GPA with more study time.
+   
 ## Key Insights
 - **Parental Education and Weekly Study Time:** Strong predictors of student success.
 - **Absences:** Have the most significant negative impact on academic performance.
