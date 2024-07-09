@@ -15,7 +15,7 @@ Our analysis revealed several key findings:
 
 1. **GPA Distribution:** 
    - Student GPA exhibits a right skew, indicating more students achieve higher GPAs.
-   - ![GPA Distribution]("[Distribustion of GPA.png](https://github.com/Saurabh-Ghagare/Student_Performance_Data_Analysis/blob/9dbadcbcc744f53555183dc12081c014345130ab/Distribustion%20of%20GPA.png)")
+   - ![GPA Distribution]("[Distribustion of GPA.png]")
    
 2. **Gender and GPA:** 
    - The average GPA for male students is slightly higher than for females (1.92 vs. 1.89).
