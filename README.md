@@ -15,7 +15,9 @@ Our analysis revealed several key findings:
 
 1. **GPA Distribution:** 
    - Student GPA exhibits a right skew, indicating more students achieve higher GPAs.
-   - ![GPA Distribution]("[Distribustion of GPA.png](https://raw.githubusercontent.com/Saurabh-Ghagare/Student_Performance_Data_Analysis/9dbadcbcc744f53555183dc12081c014345130ab/Distribustion%20of%20GPA.png)")
+  
+   ![Negative sentiment](https://github.com/Saurabh-Ghagare/Aurangabad_Hotel_Review_Analysis/assets/162418652/90aadd55-8c3b-4cda-9095-63c96535e827)
+   ![GPA Distribution]("https://raw.githubusercontent.com/Saurabh-Ghagare/Student_Performance_Data_Analysis/9dbadcbcc744f53555183dc12081c014345130ab/Distribustion%20of%20GPA.png")
    
 2. **Gender and GPA:** 
    - The average GPA for male students is slightly higher than for females (1.92 vs. 1.89).
